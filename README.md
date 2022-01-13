@@ -1,7 +1,7 @@
-### Network Engineer
+# Network Engineer
 But I only Engineer Networks for Weebs
 
-## Proficent In
+### Proficent In
 HTML, CSS, a little JS
 Python
 PHP
